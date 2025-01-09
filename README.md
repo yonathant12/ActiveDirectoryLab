@@ -1,15 +1,17 @@
 <h1>Setting up Windows Active Directory</h1>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Overview</h2>
+Setting up Active Directory on Windows Server 2019 involves installing the Active Directory Domain Services role, promoting the server to a domain controller, and configuring key components such as the domain, DNS settings, and DHCP. Additionally, it includes creating and managing users and computers within the domain, assigning appropriate permissions, and enabling remote access to allow for secure management and connectivity across the network.
 <br />
 
 
 <h2>Features Used</h2>
 
-- <b>DHCP</b>
-- <b>Remote Access</b>
+- <b>Active Directory Domain Services</b>
 - <b>DNS</b>
+- <b>Remote Access</b>
+- <b>DHCP</b>
+- <b>Users and Computers</b>
 
 
 <h2>Lab walk-through:</h2>
