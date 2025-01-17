@@ -202,14 +202,11 @@ Open the Admin Organizational unit, right click on the user and select Propertie
 <br />
 <br />
 Select "Member Of" then click add.<br/>
-Enter Administrators in the text box, click check names, then click ok.<br/>
-<img src="https://i.imgur.com/dnISD1c.png" height="60%" width="60%"/>
+Enter Domain Admin in the text box, click check names, then click ok.<br/>
+<img src="https://i.imgur.com/hWxGvi3.png" height="60%" width="60%"/>
 <br />
 <br />
 Click apply then click ok.<br/>
-<img src="https://i.imgur.com/q5EymEC.png" height="60%" width="60%"/>
-<br />
-<br />
 Sign out and sign back in with the admin account.<br/>
 <img src="https://i.imgur.com/tqfHBwS.png" height="60%" width="60%"/>
 <br />
