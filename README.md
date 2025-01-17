@@ -16,7 +16,7 @@ Setting up Active Directory on Windows Server 2019 involves installing the Activ
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Select "Add roles and features".<br/>
 <img src="https://i.imgur.com/2Pc7y6t.png" height="60%" width="60%"/>
 <br />
